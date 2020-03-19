@@ -58,4 +58,5 @@ As our training history plot shows, our network is not overfitting, despite havi
 ![plot](https://user-images.githubusercontent.com/23243761/77067526-5b651580-69e5-11ea-87e4-e0437b689d5f.png)
 
 And last by not least here is the Final result from the x-ray which shows either the x-ray image has the potential of COVID-19 or not. 
+
 ![covid19_keras_dataset](https://user-images.githubusercontent.com/23243761/77067671-a5e69200-69e5-11ea-9d7d-3a841807255b.png)
